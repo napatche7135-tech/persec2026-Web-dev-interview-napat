@@ -1,0 +1,1 @@
+{"name":"persec2026-web-dev-interview","version":"1.0.0","private":true,"scripts":{"build":"tsc","test":"npm run build && node --test dist/tests/*.test.js"},"devDependencies":{"typescript":"^5.8.3"}}
